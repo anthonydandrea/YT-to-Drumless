@@ -1,0 +1,6 @@
+musicai_sdk
+python-dotenv
+yt-dlp
+requests
+ffmpeg
+
